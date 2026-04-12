@@ -1,0 +1,6 @@
+data/
+outputs/
+models/
+*.csv
+*.pkl
+*.png
