@@ -1,10 +1,10 @@
-# 📩 SMS Spam Classifier (CodSoft ML Internship)
+# SMS Spam Classifier
 
 Built an end-to-end Machine Learning system to classify SMS messages as **Spam or Legitimate (Ham)** using NLP techniques and multiple ML models.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project focuses on detecting spam messages using:
 - Text preprocessing
@@ -15,7 +15,7 @@ The system is designed with a **modular pipeline** and follows clean project str
 
 ---
 
-## 🧠 Features
+## Features
 
 - Clean text preprocessing pipeline
 - TF-IDF based feature engineering
@@ -31,7 +31,3 @@ The system is designed with a **modular pipeline** and follows clean project str
 - Confusion matrix visualization
 - Separate EDA & visualization notebook
 - Saved trained model for real-world predictions
-
----
-
-## 📁 Project Structure
