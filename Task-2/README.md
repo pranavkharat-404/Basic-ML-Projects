@@ -1,8 +1,7 @@
 #Credit Card Fraud Detection
 **Dataset:** [Kaggle — kartik2112/fraud-detection](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
-Trains and compares three classifiers — Logistic Regression, Decision Tree, and Random Forest —
-on the Sparkov-generated credit card transaction dataset.
+Trains and compares three classifiers. Logistic Regression, Decision Tree, and Random Forest on the Sparkov-generated credit card transaction dataset.
 
 
 ## Features Used
@@ -36,4 +35,4 @@ on the Sparkov-generated credit card transaction dataset.
 > **Why PR-AUC and not accuracy?**
 > The dataset is highly imbalanced (~0.58% fraud). A model that predicts "legit" 100% of the time
 > gets 99.4% accuracy but catches zero fraud. PR-AUC rewards models that rank frauds highly
-> among the top predictions — a much more meaningful metric here.
+> among the top predictions a much more meaningful metric here.
