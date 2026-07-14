@@ -33,7 +33,5 @@ Build a machine learning model to predict the genre of a movie based on its plot
 
 ## Dataset
 
-The dataset is not included in this repository due to size constraints.
-
-Download from Kaggle:
+Downloaded from Kaggle:
 https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb
