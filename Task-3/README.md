@@ -1,4 +1,4 @@
-# SMS Spam Classifier
+# SMS Spam Classifier using ML
 
 Built an end-to-end Machine Learning system to classify SMS messages as **Spam or Legitimate (Ham)** using NLP techniques and multiple ML models.
 
