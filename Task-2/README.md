@@ -1,4 +1,4 @@
-#Credit Card Fraud Detection
+#Credit Card Fraud Detection using ML
 **Dataset:** [Kaggle — kartik2112/fraud-detection](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 Trains and compares three classifiers. Logistic Regression, Decision Tree, and Random Forest on the Sparkov-generated credit card transaction dataset.
